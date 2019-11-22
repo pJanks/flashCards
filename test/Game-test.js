@@ -3,7 +3,6 @@ const expect = chai.expect;
 
 const Game = require('../src/Game');
 
-
 describe('Game', function() {
 
   it('should create cards', function() {
